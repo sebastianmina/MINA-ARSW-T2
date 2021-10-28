@@ -76,7 +76,7 @@ mvn compile
 ![](src/main/resources/img/local.png)
 
 ## Link Heroku
-![HerokuApp](https://arsw-t2-mina.herokuapp.com)
+[HerokuApp](https://arsw-t2-mina.herokuapp.com)
 
 ## Requerimientos de Entrega
 
