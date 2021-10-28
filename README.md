@@ -60,7 +60,8 @@ Sugerencia realice la implementación de manera incremental. Haga commits regula
 1. Clonar el repositorio en el Escritorio.
 
 ```
-cd git clone https://github.com/sebastianmina/MINA-ARSW-T2
+cd Desktop
+git clone https://github.com/sebastianmina/MINA-ARSW-T2
 ```
 
 2. En un editor de texto, compilar el proyecto.
@@ -72,7 +73,7 @@ mvn compile
 3. Ejecutar la clase CoronavirusApplication.java.
 
 ## Prueba local
-![](img/local.png)
+![](src/main/resources/img/local.png)
 
 ## Requerimientos de Entrega
 
