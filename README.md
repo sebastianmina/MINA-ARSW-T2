@@ -55,6 +55,25 @@ Sugerencia realice la implementación de manera incremental. Haga commits regula
 
 ![](ArchitectureDiagrams/ComponentDiagram.png)
 
+## Ejecución
+
+1. Clonar el repositorio en el Escritorio.
+
+```
+cd git clone https://github.com/sebastianmina/MINA-ARSW-T2
+```
+
+2. En un editor de texto, compilar el proyecto.
+
+```
+mvn compile
+```
+
+3. Ejecutar la clase CoronavirusApplication.java.
+
+## Prueba local
+![](img/local.png)
+
 ## Requerimientos de Entrega
 
 1.  La aplicación funcionando en Heroku con el nombre (NOMBRE-APELLIDO-ARSW-T2) y el código fuente almacenado en un proyecto GitHub con el nombre (NOMBRE-APELLIDO-ARSW-T2).
