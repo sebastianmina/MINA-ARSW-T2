@@ -78,6 +78,9 @@ mvn compile
 ## Link Heroku
 [HerokuApp](https://arsw-t2-mina.herokuapp.com)
 
+## Bonos
+>No hay bonos.
+
 ## Requerimientos de Entrega
 
 1.  La aplicación funcionando en Heroku con el nombre (NOMBRE-APELLIDO-ARSW-T2) y el código fuente almacenado en un proyecto GitHub con el nombre (NOMBRE-APELLIDO-ARSW-T2).
